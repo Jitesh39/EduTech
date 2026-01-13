@@ -4,7 +4,7 @@ import Login from "@/components/Login";
 // import "./globals.css";
 
 export const metadata = {
-  title: "Course Marketplace",
+  title: "EduTech",
   description: "Learn new skills with industry-ready courses",
 };
 
